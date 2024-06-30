@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/acentauri-solar-racing/ss_performance_toolbox/blob/dev/logo/logo.png?raw=true" width="300">
+<img src="https://github.com/acentauri-solar-racing/ss_performance_toolbox/blob/dev/logo/logo.png?raw=true" width="200">
 </h1>
 
 # Strategy and Simulation Interview Question
