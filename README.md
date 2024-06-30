@@ -53,5 +53,4 @@ Finally, an average solar irradiance of $I_\mathrm{sun} = 700\ \mathrm{W}$ and a
   - Aerodynamic drag force: $F_\mathrm{aero} = \frac{1}{2} \cdot \rho_\mathrm{air} \cdot A_\mathrm{front} \cdot c_\mathrm{d} \cdot v^2$
   - Rolling resistance force: $F_\mathrm{roll} = m \cdot g \cdot \cos(\alpha) \cdot c_\mathrm{r}$
 
----
 **We are very happy to see your solution to this problem! :)**
