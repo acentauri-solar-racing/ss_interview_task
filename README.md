@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="https://github.com/acentauri-solar-racing/ss_performance_toolbox/blob/dev/logo/logo.png?raw=true" width="300">
+</h1>
+
 # Strategy and Simulation Interview Question
 
 Welcome to the aCentauri Solar Racing Team! Thank you for your interest in the strategy and simulation subsystem.
