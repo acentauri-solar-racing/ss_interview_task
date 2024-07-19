@@ -39,3 +39,4 @@ for car in cars[:]:
 
 plt.bar(np.arange(14)+1,np.array(car_times)/3600)
 plt.show()
+plt.savefig('plot.jpg')
